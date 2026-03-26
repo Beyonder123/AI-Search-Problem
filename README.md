@@ -9,16 +9,12 @@ An intelligent **Rush Hour** puzzle game implementation featuring AI search algo
 - [🎯 Overview](#-overview)
 - [✨ Features](#-features)
 - [🏗️ Project Structure](#️-project-structure)
-- [🔧 Installation](#-installation)
 - [🚀 Usage](#-usage)
 - [🧠 Algorithms](#-algorithms)
 - [🗺️ Map Format](#️-map-format)
 - [⚙️ Configuration](#️-configuration)
 - [🎮 Game Controls](#-game-controls)
 - [📊 Performance Metrics](#-performance-metrics)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-- [👨‍💻 Author](#-author)
 
 ## 🎯 Overview
 

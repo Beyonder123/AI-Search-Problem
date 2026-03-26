@@ -4,8 +4,6 @@
 
 An intelligent **Rush Hour** puzzle game implementation featuring AI search algorithms and an intuitive graphical interface built with Pygame. This project demonstrates various artificial intelligence search strategies to solve the classic sliding puzzle game where the goal is to move a red car (marked as 'X') out of a traffic jam.
 
-[![Python Version](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://python.org) [![Pygame](https://img.shields.io/badge/Pygame-2.5.2-green.svg)](https://pygame.org) [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 ## 📖 Table of Contents
 
 - [🎯 Overview](#-overview)

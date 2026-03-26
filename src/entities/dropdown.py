@@ -1,4 +1,3 @@
-from anyio import value
 import pygame
 
 class Dropdown:
